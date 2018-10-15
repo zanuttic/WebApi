@@ -1,0 +1,8 @@
+{
+  "juegosID": 2,
+  "nombre": "Virtualidad Real",
+  "categoria": "Ejercitacion",
+  "descripcion": "Ejercitacion de la memoria a largo plazo",
+  "estado": true,
+  "multijugador": false
+}
